@@ -1,2 +1,25 @@
-# fastapi-production-template
-Production-ready FastAPI backend template with PostgreSQL, Docker and JWT authentication.
+# FastAPI Production Template
+
+Production-ready FastAPI backend starter template.
+
+## Features
+
+- FastAPI
+- SQLAlchemy
+- PostgreSQL ready
+- JWT authentication
+- Docker support
+- Clean project structure
+- Environment configuration
+
+## Run
+
+```bash
+docker compose up --build
+```
+
+API docs:
+
+```
+/docs
+```
